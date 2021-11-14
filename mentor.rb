@@ -28,4 +28,4 @@ akaide = RailsMentor.new('赤出')
 
 #jobを呼び出して仕事内容を表示させる
 kirameki.job
-akaide.job(akaide)
+akaide.job
